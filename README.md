@@ -1,4 +1,4 @@
-# Team33 Repository Rules 
+# Team Cabitat Repository Rules 
 
 * For markdown ensure to use tab (preferably)  insteand of space to align code lines
 * Do not commit broken code (Unless specific bug)
